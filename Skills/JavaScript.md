@@ -1,9 +1,9 @@
 ## JavaScript
 
 - Language
-  - Object
+  - Object: 👂 heard
   - this
-  - arrow function
+  - arrow function: 👂 heard
   - async function
   - call
   - bind
@@ -11,8 +11,8 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof
-  - destructuring
+  - typeof: 👂 heard
+  - destructuring: 👂 heard
   - generator
   - iterator
   - async generator
@@ -26,11 +26,11 @@
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
   - yield
   - await
   - template literal
@@ -41,29 +41,29 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 👂 heard
+  - for..of: 👂 heard
   - for await
-  - throw
-  - break
+  - throw: 👂 heard
+  - break: 👂 heard
   - continue
   - import
   - export
   - label
   - try..catch
-  - switch
-  - class
+  - switch: 👂 heard
+  - class: 👂 heard
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 👂 heard
+  - function expression: 👂 heard
+  - return: 👂 heard
+  - default parameters: 👂 heard
   - functional object
 - Data structures
   - Array
@@ -72,8 +72,8 @@
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined: 👂 heard
+  - null: 👂 heard
   - Proxy
   - weak collections
   - timers
@@ -82,8 +82,8 @@
   - Date
   - BigInt
 - Infrastructure
-  - V8
-  - Node.js
+  - V8: 👂 heard
+  - Node.js: 👂 heard
   - npm
   - prettier
   - MDN
