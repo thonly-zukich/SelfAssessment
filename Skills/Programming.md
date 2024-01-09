@@ -1,38 +1,38 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 👂 heard
+  - literal: 🖐️ used
+  - expression: 👂 heard
   - heap
-  - function
+  - function: 👂 heard
   - procedure
-  - method
-  - class
-  - prototype
+  - method: 👂 heard
+  - class: 👂 heard
+  - prototype: 👂 heard
   - event
-  - type
-  - primitive types
+  - type: 👂 heard
+  - primitive types: 👂 heard
   - reference types
   - flag
   - lexical scope
   - code block
   - conditions
-  - loops
-  - assignment
-  - regular expression
+  - loops: 🖐️ used
+  - assignment: 🖐️ used
+  - regular expression: 🖐️ used
   - interface
   - contract
-  - module
-  - call stack
+  - module: 👂 heard
+  - call stack: 👂 heard
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature: 👂 heard
+  - argument: 👂 heard
+  - parameter: 🖐️ used
   - pure function
   - lambda expression
   - side effects
@@ -40,8 +40,8 @@
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
+  - recursion: 👂 heard
+  - callback: 👂 heard
   - listener
   - compose
   - pipe
@@ -53,14 +53,14 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 👂 heard
+  - structure: 👂 heard
   - record
   - enum
   - instance
-  - object
-  - class
-  - collection
+  - object: 👂 heard
+  - class: 👂 heard
+  - collection: 👂 heard
   - set
   - hash table
   - linked list
@@ -68,7 +68,7 @@
   - unrolled list
   - circular list
   - queue
-  - stack
+  - stack: 👂 heard
   - deque
   - tree
   - graph
@@ -78,7 +78,7 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 🖐️ used
   - transpiler
   - linter
   - polyfill
@@ -88,8 +88,8 @@
   - code review
   - antipatterns
   - paradigm
-  - algorithm
-  - magic numbers
+  - algorithm: 🖐️ used
+  - magic numbers: 🖐️ used
   - hardcode
   - complexity
   - decomposition
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 👂 hear
+  - github: 👂 hear
