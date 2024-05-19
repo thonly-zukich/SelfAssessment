@@ -1,28 +1,28 @@
 ## JavaScript
 
 - Language
-  - Object: 🖐️ used
-  - this: 👂 heard
+  - Object: 🙋 explained
+  - this: 🙋 explained
   - arrow function: 🖐️ used
   - async function: 👂 heard
   - call: 👂 heard
   - bind
   - apply
-  - instanceof: 👂 heard
+  - instanceof: 🎓 known
   - ...spread
   - ...rest
   - typeof: 🖐️ used
   - destructuring: 👂 heard
   - generator
-  - iterator: 👂 heard
+  - iterator: 🎓 known
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
   - global: 🖐️ used
-  - globalThis: 👂 heard
-  - window: 👂 heard
+  - globalThis: 🎓 known
+  - window: 🎓 known
   - getters and setters
   - __proto__
   - prototype: 👂 heard
@@ -34,9 +34,9 @@
   - yield
   - await
   - template literal
-  - strict mode: 👂 heard
+  - strict mode: 🎓 known
   - delete
-  - in: 👂 heard
+  - in: 🎓 known
   - super
   - Symbol
   - Reflect
@@ -44,18 +44,18 @@
   - if: 🙋 explained
   - while: 🙋 explained
   - do..while: 🙋 explained
-  - for: 🖐️ used
-  - for..in: 🖐️ used
+  - for: 🙋 explained
+  - for..in: 🙋 explained
   - for..of: 🖐️ used
   - for await
   - throw: 🖐️ used
-  - break: 🖐️ used
+  - break: 🙋 explained
   - continue
   - import: 🖐️ used
   - export
   - label
   - try..catch; 🎓 known
-  - switch: 🖐️ used
+  - switch: 🙋 explained
   - class: 🖐️ used
   - new Error
   - with
@@ -66,11 +66,11 @@
   - default parameters: 👂 heard
   - functional object
 - Data structures
-  - Array: 🖐️ used
+  - Array: 🙋 explained
   - mixin
   - extend: 👂 heard
   - typed arrays
-  - Map
+  - Map: 🎓 known
   - Set: 👂 heard
   - undefined: 🖐️ used
   - null: 🖐️ used
