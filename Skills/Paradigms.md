@@ -1,9 +1,9 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
+  - Structured programming: 👂 heard
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
@@ -11,7 +11,7 @@
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
+  - Asyncronous programming: 👂 heard
   - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
