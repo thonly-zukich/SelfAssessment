@@ -14,10 +14,10 @@
   - method: 🖐️ used
   - class: 🖐️ used
   - prototype: 🖐️ used
-  - event
-  - type: 🖐️ used
+  - event: 👂 heard
+  - type: 🙋 explained
   - primitive types: 👂 heard
-  - reference types
+  - reference types:
   - flag: 🖐️ used
   - lexical scope: 👂 heard
   - code block: 🖐️ used
@@ -31,8 +31,8 @@
   - call stack: 🎓 known
 - Functions
   - signature: 🖐️ used
-  - argument: 🖐️ used
-  - parameter: 🖐️ used
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
   - pure function: 👂 heard
   - lambda expression: 👂 heard
   - side effects: 👂 heard
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array: 🖐️ used
+  - array: 🙋 explained
   - structure: 🖐️ used
   - record: 👂 heard
   - enum: 👂 heard
   - instance: 🎓 known
   - object: 👂 heard
-  - class: 👂 heard
+  - class: 🎓 known
   - collection: 👂 heard
   - set: 👂 heard
   - hash table: 👂 heard
@@ -68,7 +68,7 @@
   - unrolled list
   - circular list
   - queue: 👂 heard
-  - stack: 👂 heard
+  - stack: 🎓 known
   - deque
   - tree: 🎓 know
   - graph: 🎓 know
@@ -76,7 +76,7 @@
   - mutable state: 👂 heard
   - immutable state: 👂 heard
   - serialization
-  - string parsing
+  - string parsing 🎓 known
 - Process & style
   - compiler: 🖐️ used
   - transpiler
@@ -86,7 +86,7 @@
   - garbage collection
   - refactoring
   - code review
-  - antipatterns: 🎓 know
+  - antipatterns: 🖐️ used
   - paradigm: 🎓 know
   - algorithm: 🖐️ used
   - magic numbers: 🖐️ used
@@ -96,11 +96,11 @@
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 👂 heard
   - unreachable code: 👂 heard
   - duplicate code: 👂 heard
   - exception: 🎓 know
   - return early
   - unittest
-  - git: 👂 heard
-  - github: 👂 heard
+  - git: 🖐️ used
+  - github: 🖐️ used
